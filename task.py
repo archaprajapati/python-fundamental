@@ -11,14 +11,14 @@
 
 ##2 pro.
         
-##n=int(input("Enter Number:"))
-##for i in range(n+1):
-##    
-##    if i%2==0:
-##        print(i,"Number Is Even")
-##
-##    else:
-##        print(i,"Number Is Odd")
+n=int(input("Enter Number:"))
+for i in range(n+1):
+    
+    if i%2==0:
+        print(i,"Number Is Even")
+
+    else:
+        print(i,"Number Is Odd")
 
    
 ##3 pro.
@@ -79,12 +79,12 @@
 ##    print("\n")
 
 
-for i in range(0,10):
-    for j in range(10,i,-1):
-        print(" ",end=" ")
-    for k in range(0,i+1):
-        print("*",end=" ")
-    print("\n")
+##for i in range(0,10):
+##    for j in range(10,i,-1):
+##        print(" ",end=" ")
+##    for k in range(0,i+1):
+##        print("*",end=" ")
+##    print("\n")
 
 
 
